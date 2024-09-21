@@ -648,7 +648,3 @@ local Tab4 = Window:Tab("Combat")
 local Tab5 = Window:Tab("Shop")
 local Tab7 = Window:Tab("Settings")
 
-Tab:Label("Join our discord.")
-Tab:Label("Creators G - MX2 and Alexisback.")
-Tab:line()
-Tab:Button("Copy link discord", functi
