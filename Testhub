@@ -5,7 +5,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
 
 local Nurysium_Util = loadstring(game:HttpGet("https://raw.githubusercontent.com/flezzpe/Nurysium/main/nurysium_helper.lua"))()
-local libary = loadstring(game:HttpGet("https://pastebin.com/raw/0yMKk86F",true))()
+local libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/DarTGTtfd/galaxy-x-script/refs/heads/main/galaxy%20x%20script",true))()
 
 
 local function getTrainingBall()
