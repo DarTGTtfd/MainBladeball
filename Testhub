@@ -54,7 +54,7 @@ local takentimestart = false
 task.wait(0.5)
 
 local window = libary:init({
-	name = "Baka Hub"
+	name = "Test Hub"
 })
 
 local Tab1 = window:Tab({
